@@ -6,14 +6,15 @@ We delved into the intricacies of writing concise and efficient code to perform 
 Understanding how instructions are executed step-by-step at the hardware level provided us with valuable insights into the fundamentals of computing. 
 Through this experience, we gained a deeper appreciation for the relationship between high-level programming languages and the underlying machine code, empowering us to become more proficient programmers.
 
-The Assignments Include Operations such as 
-1] Addition
-2] Subtraction
-3] Multiplication
-4] Division
-5] Factorial
-6] Minimum
-7] Complement
-8] String Concatenation
+The Assignments Include Operations such as
+** 
+1] Addition <br/>
+2] Subtraction <br/>
+3] Multiplication <br/>
+4] Division <br/>
+5] Factorial <br/>
+6] Minimum <br/>
+7] Complement <br/>
+8] String Concatenation <br/> **
 
 
